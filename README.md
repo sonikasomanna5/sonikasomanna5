@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @sonikasomanna5
-- 👀 I’m interested in web devwlopment
+- 👋 Hi, I’m Sonika
+- 👀 I’m interested in Techno
 - 🌱 I’m currently pursuing my B.E
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
