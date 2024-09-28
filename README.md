@@ -27,8 +27,6 @@ Welcome to my GitHub profile!
 
 Email: somannasonika@gmail.com
 
-LinkedIn: https://linkedIn.com/SonikaSomanna
-
 🌈 Fun Facts
 
 🎨 I love blending creativity with code!
