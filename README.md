@@ -1,12 +1,38 @@
-- 👋 Hi, I’m Sonika
-- 👀 I’m interested in Techno
-- 🌱 I’m currently pursuing my B.E
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 Hi, I'm Sonika!
+Welcome to my GitHub profile!
 
-<!---
-sonikasomanna5/sonikasomanna5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌟 About Me
+
+💻 Aspiring Programmer passionate about learning and exploring new technologies.
+
+🌱 Currently focusing on Full Stack Development.
+
+🚀 Working on personal projects to hone my skills in Full Stack development and UI/UX Design.
+
+
+📚 What I'm Learning
+
+ - Html, CSS, JavaScript for building dynamic web applications.
+
+ - UI/UX Design for creating user-friendly interfaces
+
+
+⚡ Skills
+
+ - Programming: Python, HTML, CSS
+
+ - Tools: Git, VSCode
+
+📫 How to Reach Me
+
+Email: somannasonika@gmail.com
+
+LinkedIn: https://linkedIn.com/SonikaSomanna
+
+🌈 Fun Facts
+
+🎨 I love blending creativity with code!
+
+✨ When I'm not coding, you'll find me sketching, exploring UI/UX design, or learning something new.
+
+Thanks for visiting! Feel free to connect or check out my projects! 🚀
